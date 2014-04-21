@@ -12,7 +12,7 @@ public class Bed {
     { 
     	rectangle = r;
     	id = i;
-    	
+    	id = i * r;
     }
 
     public void Update()
